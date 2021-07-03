@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e7c1970e-7a1e-41ea-a057-e2172a640774" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/DANE_dkj_2020$script_cora_5429.coverage" NAME="script_cora_5429 Coverage Results" MODIFIED="1577802872817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE$script_walks_cora.coverage" NAME="script_walks_cora Coverage Results" MODIFIED="1565431961366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database" />
+    <SUITE FILE_PATH="coverage/DANE_dkj_2020$script_cora.coverage" NAME="script_cora Coverage Results" MODIFIED="1577796710626" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_dkj_1217$script_walks_citeseer.coverage" NAME="script_walks_citeseer Coverage Results" MODIFIED="1577540570437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database" />
+    <SUITE FILE_PATH="coverage/DANE_dkj_1217$script_walks_pubmed.coverage" NAME="script_walks_pubmed Coverage Results" MODIFIED="1577701478808" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database" />
+    <SUITE FILE_PATH="coverage/DANE_dkj_1217$trainer.coverage" NAME="trainer Coverage Results" MODIFIED="1577321560468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Trainer" />
+    <SUITE FILE_PATH="coverage/DANE_2020$script_cornell123.coverage" NAME="script_cornell123 Coverage Results" MODIFIED="1580611558881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_2020$sctipt_Hamilton.coverage" NAME="sctipt_Hamilton Coverage Results" MODIFIED="1581512768190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_dkj_1217$script_cora.coverage" NAME="script_cora Coverage Results" MODIFIED="1577624733984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_2020$script_cora_5278.coverage" NAME="script_cora_5278 Coverage Results" MODIFIED="1581258016558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_dkj_1217$script_walks_Rochester.coverage" NAME="script_walks_Rochester Coverage Results" MODIFIED="1577682771044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database" />
+    <SUITE FILE_PATH="coverage/DANE_dkj_1217$script_walks_Hamilton.coverage" NAME="script_walks_Hamilton Coverage Results" MODIFIED="1577684733797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database" />
+    <SUITE FILE_PATH="coverage/DANE_dkj_1217$script_walks_wisconsin.coverage" NAME="script_walks_wisconsin Coverage Results" MODIFIED="1577686387403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database" />
+    <SUITE FILE_PATH="coverage/DANE_2020$script_cornell.coverage" NAME="script_cornell Coverage Results" MODIFIED="1592658709312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_dkj_2020$script_walks_cora_5429.coverage" NAME="script_walks_cora_5429 Coverage Results" MODIFIED="1577800530594" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database" />
+    <SUITE FILE_PATH="coverage/DANE_2020$script_Rochester.coverage" NAME="script_Rochester Coverage Results" MODIFIED="1578403098162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_2020_620$script_washington.coverage" NAME="script_washington Coverage Results" MODIFIED="1592750644672" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_dkj_2020$script_walks_citeseer_4732.coverage" NAME="script_walks_citeseer_4732 Coverage Results" MODIFIED="1577859809562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database" />
+    <SUITE FILE_PATH="coverage/DANE_2020_620$script_wisconsin.coverage" NAME="script_wisconsin Coverage Results" MODIFIED="1592807311796" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_2020$script_washington123.coverage" NAME="script_washington123 Coverage Results" MODIFIED="1578383407161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_2020$script_walks_cornell.coverage" NAME="script_walks_cornell Coverage Results" MODIFIED="1592105479223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database" />
+    <SUITE FILE_PATH="coverage/DANE_2020$tsne.coverage" NAME="tsne Coverage Results" MODIFIED="1591753220574" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_dkj$pretrainer.coverage" NAME="pretrainer Coverage Results" MODIFIED="1576552546443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Trainer" />
+    <SUITE FILE_PATH="coverage/DANE_dkj_1217$figure__1_.coverage" NAME="figure (1) Coverage Results" MODIFIED="1577326699800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_2020$figure.coverage" NAME="figure Coverage Results" MODIFIED="1579510897387" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE$script_cora.coverage" NAME="script_cora Coverage Results" MODIFIED="1565432508577" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_dkj_1217$script_washington.coverage" NAME="script_washington Coverage Results" MODIFIED="1577710801289" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_dkj_1217$script_Rochester.coverage" NAME="script_Rochester Coverage Results" MODIFIED="1577753825318" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_dkj_1217$script_wiki.coverage" NAME="script_wiki Coverage Results" MODIFIED="1577715776441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_dkj_1217$script_cornell.coverage" NAME="script_cornell Coverage Results" MODIFIED="1577699609176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_2020_620$script_walks_cornell.coverage" NAME="script_walks_cornell Coverage Results" MODIFIED="1592701236464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database" />
+    <SUITE FILE_PATH="coverage/DANE_2020$script_pubmed.coverage" NAME="script_pubmed Coverage Results" MODIFIED="1579270083190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_dkj_1217$script_citeseer.coverage" NAME="script_citeseer Coverage Results" MODIFIED="1577794557237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_2020$script_texas.coverage" NAME="script_texas Coverage Results" MODIFIED="1592644893214" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_2020_620$script_texas.coverage" NAME="script_texas Coverage Results" MODIFIED="1592800891336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_dkj_1217$script_pubmed.coverage" NAME="script_pubmed Coverage Results" MODIFIED="1577712858546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_dkj$script_cora.coverage" NAME="script_cora Coverage Results" MODIFIED="1576588157778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_dkj_1217$script_texas.coverage" NAME="script_texas Coverage Results" MODIFIED="1577775226922" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_dkj_1217$figure.coverage" NAME="figure Coverage Results" MODIFIED="1577103704597" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Desktop" />
+    <SUITE FILE_PATH="coverage/DANE_dkj_1217$script_walks_wiki.coverage" NAME="script_walks_wiki Coverage Results" MODIFIED="1577686610139" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database" />
+    <SUITE FILE_PATH="coverage/DANE_dkj$model.coverage" NAME="model Coverage Results" MODIFIED="1576504581482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Model" />
+    <SUITE FILE_PATH="coverage/DANE_2020$Hamilton123.coverage" NAME="Hamilton123 Coverage Results" MODIFIED="1578309310028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_dkj_1217$script_walks_texas.coverage" NAME="script_walks_texas Coverage Results" MODIFIED="1577775101751" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database" />
+    <SUITE FILE_PATH="coverage/DANE_2020$script_washington.coverage" NAME="script_washington Coverage Results" MODIFIED="1581539965972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_2020_620$script_cornell.coverage" NAME="script_cornell Coverage Results" MODIFIED="1592704667800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_2020$script_wisconsin.coverage" NAME="script_wisconsin Coverage Results" MODIFIED="1581611185774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_dkj_2020$script_cora_5278.coverage" NAME="script_cora_5278 Coverage Results" MODIFIED="1577802086073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_dkj_1216$script_cora.coverage" NAME="script_cora Coverage Results" MODIFIED="1576646167744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_dkj_1217$pretrainer.coverage" NAME="pretrainer Coverage Results" MODIFIED="1577449387109" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Trainer" />
+    <SUITE FILE_PATH="coverage/DANE_2020$script_cora_5429.coverage" NAME="script_cora_5429 Coverage Results" MODIFIED="1579487696538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_dkj_1217$script_walks_washington.coverage" NAME="script_walks_washington Coverage Results" MODIFIED="1577686295938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database" />
+    <SUITE FILE_PATH="coverage/DANE_2020$script_wiki.coverage" NAME="script_wiki Coverage Results" MODIFIED="1581651902439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_dkj$trainer.coverage" NAME="trainer Coverage Results" MODIFIED="1576505646056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Trainer" />
+    <SUITE FILE_PATH="coverage/DANE_dkj_1217$script_wisconsin.coverage" NAME="script_wisconsin Coverage Results" MODIFIED="1577708941792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>_build_eval_graph</find>
+      <find>print</find>
+      <find>A_sin_avg</find>
+      <find>i+1</find>
+      <find>jaccard</find>
+      <find>get_variable</find>
+      <find>'net_encoder'</find>
+      <find>'net_att_encoder'</find>
+      <find>num_net_atts</find>
+      <find>init</find>
+      <find>28</find>
+      <find>Relu</find>
+      <find>save</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1uD81FUGLHOgcLs7tXjkE4pu8vm" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Database/cora" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Database" />
+      <recent name="E:\LearningGit\DANE_2020\embedding\sdne" />
+      <recent name="E:\LearningGit\DANE_2020" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\LearningGit\DANE_2020\result\pubmed" />
+      <recent name="E:\LearningGit\DANE_dkj\Model" />
+      <recent name="E:\LearningGit\DANE_dkj\result\cora" />
+      <recent name="E:\LearningGit\DANE_dkj\result\citeseer" />
+      <recent name="E:\LearningGit\DANE_dkj\result" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.cluster_test">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="DANE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cluster" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DANE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cluster.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cluster_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DANE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/cluster_test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="script_cora" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DANE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script_cora.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="script_cornell" type="PythonConfigurationType" factoryName="Python">
+      <module name="DANE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script_cornell.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="script_dblp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DANE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script_dblp.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="script_imdb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DANE" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/script_imdb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.script_cornell" />
+      <item itemvalue="Python.script_cora" />
+      <item itemvalue="Python.script_imdb" />
+      <item itemvalue="Python.script_dblp" />
+      <item itemvalue="Python.cluster" />
+      <item itemvalue="Python.cluster_test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.cluster_test" />
+        <item itemvalue="Python.cluster" />
+        <item itemvalue="Python.script_dblp" />
+        <item itemvalue="Python.script_imdb" />
+        <item itemvalue="Python.script_cora" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e7c1970e-7a1e-41ea-a057-e2172a640774" name="Default Changelist" comment="" />
+      <created>1564811299672</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564811299672</updated>
+      <workItem from="1564811308171" duration="843000" />
+      <workItem from="1564812709071" duration="11041000" />
+      <workItem from="1565419263583" duration="1457000" />
+      <workItem from="1565420974721" duration="1002000" />
+      <workItem from="1565425642528" duration="1306000" />
+      <workItem from="1565426955298" duration="59000" />
+      <workItem from="1565427031643" duration="219000" />
+      <workItem from="1565427355924" duration="1941000" />
+      <workItem from="1565431144660" duration="1564000" />
+      <workItem from="1565436157589" duration="2721000" />
+      <workItem from="1566895534858" duration="35373000" />
+      <workItem from="1567476240967" duration="2306000" />
+      <workItem from="1567558912630" duration="2610000" />
+      <workItem from="1567862502189" duration="138226000" />
+      <workItem from="1568160931615" duration="44000" />
+      <workItem from="1568161316593" duration="12523000" />
+      <workItem from="1568189103138" duration="20669000" />
+      <workItem from="1568598269506" duration="9442000" />
+      <workItem from="1568708254580" duration="3035000" />
+      <workItem from="1568858632553" duration="2088000" />
+      <workItem from="1568942950032" duration="20389000" />
+      <workItem from="1569239282002" duration="1144000" />
+      <workItem from="1572573084233" duration="23000" />
+      <workItem from="1572919824426" duration="3470000" />
+      <workItem from="1572923392042" duration="18768000" />
+      <workItem from="1573560340795" duration="3581000" />
+      <workItem from="1573805346522" duration="3142000" />
+      <workItem from="1573989169196" duration="14063000" />
+      <workItem from="1574495257449" duration="22130000" />
+      <workItem from="1574849103368" duration="17001000" />
+      <workItem from="1574934212794" duration="44348000" />
+      <workItem from="1575080283084" duration="6970000" />
+      <workItem from="1575166452367" duration="1235000" />
+      <workItem from="1575180333395" duration="1213000" />
+      <workItem from="1575206231725" duration="3179000" />
+      <workItem from="1575255350177" duration="16732000" />
+      <workItem from="1575293617661" duration="40438000" />
+      <workItem from="1575512645368" duration="27745000" />
+      <workItem from="1575610296880" duration="106485000" />
+      <workItem from="1576459122180" duration="6520000" />
+      <workItem from="1576466738414" duration="41904000" />
+      <workItem from="1576591715340" duration="4634000" />
+      <workItem from="1576646701962" duration="24872000" />
+      <workItem from="1576891886507" duration="92924000" />
+      <workItem from="1577499072035" duration="2368000" />
+      <workItem from="1577530554112" duration="8653000" />
+      <workItem from="1577541944835" duration="4591000" />
+      <workItem from="1577584119489" duration="22153000" />
+      <workItem from="1577631440595" duration="33865000" />
+      <workItem from="1577795905902" duration="7991000" />
+      <workItem from="1577882798285" duration="33657000" />
+      <workItem from="1578102904947" duration="616000" />
+      <workItem from="1578103545512" duration="49644000" />
+      <workItem from="1578232952039" duration="259000" />
+      <workItem from="1578233237560" duration="800000" />
+      <workItem from="1578288507022" duration="59931000" />
+      <workItem from="1578539935808" duration="1672000" />
+      <workItem from="1578553167767" duration="4605000" />
+      <workItem from="1578829817080" duration="9036000" />
+      <workItem from="1578878494430" duration="7005000" />
+      <workItem from="1579007966293" duration="3969000" />
+      <workItem from="1579050837642" duration="1163000" />
+      <workItem from="1579072117777" duration="6795000" />
+      <workItem from="1579145916032" duration="9549000" />
+      <workItem from="1579270061373" duration="623000" />
+      <workItem from="1579332170389" duration="8992000" />
+      <workItem from="1579396563257" duration="62132000" />
+      <workItem from="1580455773295" duration="12863000" />
+      <workItem from="1581002993058" duration="18977000" />
+      <workItem from="1581068707131" duration="8160000" />
+      <workItem from="1581170139623" duration="29503000" />
+      <workItem from="1581327915961" duration="31451000" />
+      <workItem from="1581502523537" duration="27019000" />
+      <workItem from="1591237382055" duration="987000" />
+      <workItem from="1591413663195" duration="64000" />
+      <workItem from="1591624653072" duration="802000" />
+      <workItem from="1591678370718" duration="679000" />
+      <workItem from="1591693671415" duration="1228000" />
+      <workItem from="1591705623022" duration="9721000" />
+      <workItem from="1591785695081" duration="20000" />
+      <workItem from="1592100796201" duration="4804000" />
+      <workItem from="1592637104983" duration="5100000" />
+      <workItem from="1592644116726" duration="8467000" />
+      <workItem from="1592701021734" duration="555000" />
+      <workItem from="1592701777478" duration="15728000" />
+      <workItem from="1598196148131" duration="42000" />
+      <workItem from="1609852701690" duration="2776000" />
+      <workItem from="1609911678709" duration="42000" />
+      <workItem from="1610346372311" duration="70000" />
+      <workItem from="1612534727306" duration="304000" />
+      <workItem from="1613271542366" duration="1791000" />
+      <workItem from="1613740041266" duration="1683000" />
+      <workItem from="1613783667318" duration="960000" />
+      <workItem from="1624188589235" duration="1591000" />
+      <workItem from="1624585849351" duration="562000" />
+      <workItem from="1624586896278" duration="616000" />
+      <workItem from="1624681785722" duration="74000" />
+      <workItem from="1624826037181" duration="599000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="457" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1624586015992">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="457" y="197" key="#com.intellij.execution.impl.EditConfigurationsDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1624586015992" />
+    <state x="721" y="297" key="FileChooserDialogImpl" timestamp="1624681862180">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="721" y="297" key="FileChooserDialogImpl/65.24.1855.1056@65.24.1855.1056" timestamp="1624681862180" />
+    <state width="1803" height="319" key="GridCell.Tab.0.bottom" timestamp="1624586282481">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1803" height="319" key="GridCell.Tab.0.bottom/65.24.1855.1056@65.24.1855.1056" timestamp="1624586282481" />
+    <state width="1803" height="319" key="GridCell.Tab.0.center" timestamp="1624586282481">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1803" height="319" key="GridCell.Tab.0.center/65.24.1855.1056@65.24.1855.1056" timestamp="1624586282481" />
+    <state width="1803" height="319" key="GridCell.Tab.0.left" timestamp="1624586282480">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1803" height="319" key="GridCell.Tab.0.left/65.24.1855.1056@65.24.1855.1056" timestamp="1624586282480" />
+    <state width="1803" height="319" key="GridCell.Tab.0.right" timestamp="1624586282481">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state width="1803" height="319" key="GridCell.Tab.0.right/65.24.1855.1056@65.24.1855.1056" timestamp="1624586282481" />
+    <state x="516" y="174" key="SettingsEditor" timestamp="1624188794535">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="516" y="174" key="SettingsEditor/65.24.1855.1056@65.24.1855.1056" timestamp="1624188794535" />
+    <state x="601" y="367" key="com.intellij.ide.util.TipDialog" timestamp="1624586903443">
+      <screen x="65" y="24" width="1855" height="1056" />
+    </state>
+    <state x="601" y="367" key="com.intellij.ide.util.TipDialog/65.24.1855.1056@65.24.1855.1056" timestamp="1624586903443" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DANE$pretrainer.coverage" NAME="pretrainer Coverage Results" MODIFIED="1573090850481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Trainer" />
+    <SUITE FILE_PATH="coverage/DANE___$trainer.coverage" NAME="trainer Coverage Results" MODIFIED="1575036908272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Trainer" />
+    <SUITE FILE_PATH="coverage/DANE_dkj$trainer.coverage" NAME="trainer Coverage Results" MODIFIED="1575617014440" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Trainer" />
+    <SUITE FILE_PATH="coverage/DANE$123.coverage" NAME="123 Coverage Results" MODIFIED="1568207953355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE$cluster.coverage" NAME="cluster Coverage Results" MODIFIED="1568123353665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_dkj$script_cora.coverage" NAME="script_cora Coverage Results" MODIFIED="1576466131928" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_dkj$script_walks_cora.coverage" NAME="script_walks_cora Coverage Results" MODIFIED="1576460604739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database" />
+    <SUITE FILE_PATH="coverage/DANE$trainer.coverage" NAME="trainer Coverage Results" MODIFIED="1574840989449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Trainer" />
+    <SUITE FILE_PATH="coverage/DANE_dkj$model.coverage" NAME="model Coverage Results" MODIFIED="1575790090464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Model" />
+    <SUITE FILE_PATH="coverage/DANE$prre__2_.coverage" NAME="prre (2) Coverage Results" MODIFIED="1573990187757" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PRRE_10-30" />
+    <SUITE FILE_PATH="coverage/DANE$script_wiki.coverage" NAME="script_wiki Coverage Results" MODIFIED="1565419371152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE___$script_cora.coverage" NAME="script_cora Coverage Results" MODIFIED="1575277901817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE_dkj$script_citeseer.coverage" NAME="script_citeseer Coverage Results" MODIFIED="1575455796242" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DFANE$script_dblp.coverage" NAME="script_dblp Coverage Results" MODIFIED="1624190069655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE___$script_citeseer.coverage" NAME="script_citeseer Coverage Results" MODIFIED="1575266532719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE$script_citeseer.coverage" NAME="script_citeseer Coverage Results" MODIFIED="1568640926905" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE$script_walks_cora.coverage" NAME="script_walks_cora Coverage Results" MODIFIED="1574161706273" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Database" />
+    <SUITE FILE_PATH="coverage/DFANE$script_imdb.coverage" NAME="script_imdb Coverage Results" MODIFIED="1624189550359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE$utils.coverage" NAME="utils Coverage Results" MODIFIED="1574170064575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/DANE___$script_wiki.coverage" NAME="script_wiki Coverage Results" MODIFIED="1574937508241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE$cluster_test.coverage" NAME="cluster_test Coverage Results" MODIFIED="1568163033175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE$prre__1_.coverage" NAME="prre (1) Coverage Results" MODIFIED="1573470395617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Prre" />
+    <SUITE FILE_PATH="coverage/DANE$prre.coverage" NAME="prre Coverage Results" MODIFIED="1573091245641" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DFANE$cluster_test.coverage" NAME="cluster_test Coverage Results" MODIFIED="1624586282472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE$dataset.coverage" NAME="dataset Coverage Results" MODIFIED="1569043701996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dataset" />
+    <SUITE FILE_PATH="coverage/DANE$walks.coverage" NAME="walks Coverage Results" MODIFIED="1574683075547" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/DANE$123__1_.coverage" NAME="123 (1) Coverage Results" MODIFIED="1568099969853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE___$script_pubmed.coverage" NAME="script_pubmed Coverage Results" MODIFIED="1574937439653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE$gpu_info.coverage" NAME="gpu_info Coverage Results" MODIFIED="1564815966204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Utils" />
+    <SUITE FILE_PATH="coverage/DFANE$script_cora.coverage" NAME="script_cora Coverage Results" MODIFIED="1624189041861" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE$script_cora.coverage" NAME="script_cora Coverage Results" MODIFIED="1574846193500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DANE$script_pubmed.coverage" NAME="script_pubmed Coverage Results" MODIFIED="1568101809875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
