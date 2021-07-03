@@ -1,4 +1,9 @@
-# A Dual Fusion model for Attributed Network Embedding
+# paper
+A Dual Fusion model for Attributed Network Embedding
+
+# Database （datasets）
+链接：https://pan.baidu.com/s/13bOolVKl4RNujhuXUWCgaw 
+提取码：y4e0
 
 ## Preprocess data
 
